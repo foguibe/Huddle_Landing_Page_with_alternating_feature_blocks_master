@@ -1,0 +1,2 @@
+# Huddle_Landing_Page_with_alternating_feature_blocks_master
+Frontend Mentor Design Challenge (17)
