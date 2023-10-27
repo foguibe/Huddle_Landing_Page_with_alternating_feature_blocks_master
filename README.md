@@ -1,7 +1,5 @@
 # Huddle Landing Page
 
-![Huddle Landing Page](images/screenshot.png)
-
 This project is the implementation of the Huddle Landing Page, designed using HTML and CSS. It features a modern and responsive web page for presenting a community-building platform. Below is a detailed readme for this project.
 
 ## Table of Contents
